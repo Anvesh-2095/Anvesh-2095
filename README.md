@@ -1,16 +1,25 @@
-### Hi there 👋
+## Bio
+- Hello there, I am Anvesh Shrivastava, a student at the Indian Institute of Information Technology (IIIT), Guwahati.
+- Even I don't know, what I am interested in.
+- I am exploring everything except Web Development using HTML, CSS and JS.
 
-<!--
-**Anvesh-2095/Anvesh-2095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
+  - LinkedIn [Anvesh Shrivastava](https://www.linkedin.com/in/anvesh-shrivastava-42b01b283/)
+  - Instagram [@anvesh_2095](https://www.instagram.com/anvesh_2095/)
 
-Here are some ideas to get you started:
+### Interests
+  - Java and C#
+  - C and Rust
+  - Network Programming
+  - Databases
+  - Computer Vision
+ 
+### Currently Learning
+  - Network Programming
+  - SQL, Mongos and Redis
+  - Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+  ![github_stats_image](https://github-readme-stats.vercel.app/api?username=Anvesh-2095&show_icons=true&hide=issues&count_private=true)
+
+Please consider revisiting with the expectation of some progress 😜. Thank you..
